@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/I1V9YWqRIeI" target="_blank">
-      ![Event Demo](./public/readme/devevent.gif)
+      ![Event Demo](./public/devevent.gif)
     </a>
   <br />
 
