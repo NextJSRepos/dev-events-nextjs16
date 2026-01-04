@@ -1,9 +1,4 @@
-<div align="center">
-  <br />
-    <a href="https://youtu.be/I1V9YWqRIeI" target="_blank">
-      ![Event Demo](./public/devevent.gif)
-    </a>
-  <br />
+![Event Demo](./public/devevent.gif)
 
   <div>
 <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=Next.js&logoColor=white" /> 
